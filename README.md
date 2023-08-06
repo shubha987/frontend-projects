@@ -1,2 +1,2 @@
 # frontend-projects
-This are my some projects related to front end
+These are my some projects related to front end
